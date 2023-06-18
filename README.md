@@ -1,4 +1,4 @@
-# TaskBoard
+# TaskBoard new blank
 Trello-style task board, holding tasks in boards (Open, In Progress, Done)
 
 * Technologies: .NET 6, ASP.NET MVC Core, Entity Framework Core, MS SQL Server
